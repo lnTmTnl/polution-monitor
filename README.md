@@ -4,7 +4,10 @@
 作品名：源澄智测。
 
 技术栈：Vue 3 + Vue Router + ajax + Echarts。（仅前端）
+
+https://user-images.githubusercontent.com/79458072/194995609-dd63e7c1-63aa-489b-b365-b4fcef5ca759.mp4
 ## Project setup
+
 ```
 npm install
 ```
